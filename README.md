@@ -1,9 +1,9 @@
 # Latihan Praktikum 9 DPBO
 
-## Janji:
+## Janji
 Saya Azzahra Siti Hadjar dengan nim 2100901 mengerjakan Latihan Praktikum 9 DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Alur Program:
+## Alur Program
 - Masuk ke halaman landing page.
 - Klik button 'Masuk'. 
 - Masuk ke halaman data seluruh residen.
